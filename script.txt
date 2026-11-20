@@ -1,1 +1,2 @@
 int vida = 100;
+int velocidad = 15;
